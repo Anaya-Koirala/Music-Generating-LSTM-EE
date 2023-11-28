@@ -1,5 +1,5 @@
-# nn-ee
+# Music Generation using LSTM-RNN
 
-for computer ee
-edited from https://www.tensorflow.org/tutorials/audio/music_generation
-specifically aimed to replicate the music of Bach (lmao)
+
+edited from https://www.tensorflow.org/tutorials/audio/music_generation \
+aimed to replicate the music of Bach (lmao)
