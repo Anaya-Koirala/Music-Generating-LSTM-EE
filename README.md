@@ -20,7 +20,4 @@ Part of my IBDP Extended Essay research. I aimed to explore how neural networks 
 - [Sample 5](output/5.mp4)
 - [Sample 6](output/6.mp4)
 
-<audio controls>
-  <source src="output/1.mp4" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<video src="output/1.mp4">
