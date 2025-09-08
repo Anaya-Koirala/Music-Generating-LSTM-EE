@@ -13,14 +13,14 @@ Part of my IBDP Extended Essay research. I aimed to explore how neural networks 
 - ``EE_Stats.ipynb``: Tool custom created for statistical analysis of the generated music.
 
 ## Samples
-- [Sample 1](output/1.mp3)
-- [Sample 2](output/2.mp3)
-- [Sample 3](output/3.mp3)
-- [Sample 4](output/4.mp3)
-- [Sample 5](output/5.mp3)
-- [Sample 6](output/6.mp3)
+- [Sample 1](output/1.mp4)
+- [Sample 2](output/2.mp4)
+- [Sample 3](output/3.mp4)
+- [Sample 4](output/4.mp4)
+- [Sample 5](output/5.mp4)
+- [Sample 6](output/6.mp4)
 
 <audio controls>
-  <source src="output/1.mp3" type="audio/mpeg">
+  <source src="output/1.mp4" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
