@@ -19,5 +19,3 @@ Part of my IBDP Extended Essay research. I aimed to explore how neural networks 
 - [Sample 4](output/4.mp4)
 - [Sample 5](output/5.mp4)
 - [Sample 6](output/6.mp4)
-
-<video src="output/1.mp4">
